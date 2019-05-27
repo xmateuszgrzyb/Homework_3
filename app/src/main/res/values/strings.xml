@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework_333</string>
+    <string name="instruction">Zakryj czujnik swiatla, pomysl pytanie, a nastepnie odkryj czujnik i zobacz odpowiedz!</string>
+    <string name="sensor_values">Sensor Values</string>
+</resources>
